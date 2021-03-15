@@ -1,7 +1,14 @@
+// Local
+import HomeScreen from "./containers/home";
+import { GlobalStyle } from "./style/Global";
+
 function App() {
   return (
-   <h1>Hello World</h1>
-  )
+    <>
+      <HomeScreen />
+      <GlobalStyle />
+    </>
+  );
 }
 
-export default App
+export default App;

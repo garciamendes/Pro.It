@@ -1,7 +1,5 @@
 // React
 import React from 'react'
-
-// Third party
 import ReactDOM from 'react-dom'
 
 // Local
